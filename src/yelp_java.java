@@ -3,8 +3,8 @@ import org.json.JSONObject;
 
 public class Main implements Runnable {
     private static final String AUTHORIZATION_HEADER = "Authorization";
-    public static final String USERNAME = "YOUR_USERNAME";
-    public static final String PASSWORD = "YOUR_PASSWORD";
+    public static final String USERNAME = "USERNAME";
+    public static final String PASSWORD = "PASSWORD";
 
     public void run() {
         JSONObject jsonObject = new JSONObject();
