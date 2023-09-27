@@ -48,7 +48,7 @@ for information regarding payload parameters.
 {
     "results": [
         {
-            "content":"<!doctype html>\n<html lang=\"en\">\n<head>
+            "content": "<!doctype html>\n<html lang=\"en\">\n<head>
             ... 
             </script></body>\n</html>\n",
             "created_at": "2023-06-06 13:24:56",
